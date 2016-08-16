@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1471252749 source:e:\c pro\study\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1471231094 source:e:\c pro\study\study01.c
+	<stdio.h>
+
+1471232202 source:e:\c pro\study\study02.c
+	<stdio.h>
+
